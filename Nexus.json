@@ -10,5 +10,11 @@
         "key": "munirvip",
         "expirydate": "25-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "13fdd3c98ae0206b",
+        "key": "munirvip1",
+        "expirydate": "25-12-2025",
+        "Allowoffline": false
     }
 ]
